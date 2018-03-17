@@ -502,6 +502,10 @@
     (magit-status-mode         all-the-icons-alltheicon "git"              :face all-the-icons-lred)
     (magit-log-mode            all-the-icons-alltheicon "git"              :face all-the-icons-green)
     (paradox-menu-mode         all-the-icons-faicon "archive"              :height 1.0 :v-adjust 0.0 :face all-the-icons-silver)
+    (mu4e-compose-mode         all-the-icons-octicon "pencil"              :v-adjust 0.0)
+    (mu4e-headers-mode         all-the-icons-octicon "mail"                :v-adjust 0.0)
+    (mu4e-main-mode            all-the-icons-octicon "mail"                :v-adjust 0.0)
+    (mu4e-view-mode            all-the-icons-octicon "mail-read"           :v-adjust 0.0)
     (Custom-mode               all-the-icons-octicon "settings")
 
     ;; Special matcher for Web Mode based on the `web-mode-content-type' of the current buffer
