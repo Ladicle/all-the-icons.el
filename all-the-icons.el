@@ -415,8 +415,10 @@
     ("^\\*scratch.*"    all-the-icons-faicon "sticky-note"              :face all-the-icons-yellow)
     ("^\\*new-tab\\*$"  all-the-icons-material "star"                   :face all-the-icons-cyan)
 
-    ("\\/"              all-the-icons-octicon "file-directory"          :v-adjust 0.0)
-    ("."                all-the-icons-faicon "file"                     :height 0.8 :v-adjust 0.0 :face all-the-icons-dsilver)))
+
+    ("^\\.\\.?/$"       all-the-icons-octicon "file-submodule"          :v-adjust 0.0)
+    ("./$"              all-the-icons-octicon "file-directory"          :v-adjust 0.0)
+    ("."                all-the-icons-faicon "file-o"                   :height 0.8 :v-adjust 0.0 :face all-the-icons-dsilver)))
 
 (defvar all-the-icons-dir-icon-alist
   '(
