@@ -361,7 +361,7 @@
     ("\\.pp[st]x$"      all-the-icons-fileicon "powerpoint"             :face all-the-icons-red)
     ("\\.knt$"          all-the-icons-fileicon "powerpoint"             :face all-the-icons-cyan)
 
-    ("bookmark"         all-the-icons-octicon "bookmark"                :height 1.1 :v-adjust 0.0 :face all-the-icons-lpink)
+    ("bookmark"         all-the-icons-faicon "star"                     :v-adjust 0.0 :face all-the-icons-lpink)
     ("\\.cache$"        all-the-icons-octicon "database"                :height 1.0 :v-adjust 0.0 :face all-the-icons-green)
 
     ("^\\*scratch\\*$"  all-the-icons-faicon "sticky-note"              :face all-the-icons-lyellow)
