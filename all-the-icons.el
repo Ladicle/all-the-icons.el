@@ -355,6 +355,7 @@
     ("\\.md$"           all-the-icons-octicon "markdown"                :v-adjust 0.0 :face all-the-icons-lblue)
     ("\\.bib$"          all-the-icons-fileicon "bib"                    :face all-the-icons-maroon)
     ("\\.org$"          all-the-icons-fileicon "org"                    :face all-the-icons-lgreen)
+    ("\\.org_archive$"  all-the-icons-fileicon "org"                    :face all-the-icons-maroon)
 
     ("\\.pp[st]$"       all-the-icons-fileicon "powerpoint"             :face all-the-icons-orange)
     ("\\.pp[st]x$"      all-the-icons-fileicon "powerpoint"             :face all-the-icons-red)
