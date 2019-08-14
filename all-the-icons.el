@@ -594,6 +594,8 @@
     (jinja2-mode                        all-the-icons-fileicon "jinja"            :face 'all-the-icons-silver)
     (dockerfile-mode                    all-the-icons-fileicon "dockerfile"       :face 'all-the-icons-cyan)
     (powershell-mode                    all-the-icons-fileicon "powershell"       :face all-the-icons-blue)
+    (tex-mode                           all-the-icons-fileicon "tex"              :face all-the-icons-lred)
+    (latex-mode                         all-the-icons-fileicon "tex"              :face all-the-icons-lred)
     ))
 
 (defvar all-the-icons-url-alist
