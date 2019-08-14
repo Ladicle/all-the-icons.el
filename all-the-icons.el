@@ -229,6 +229,7 @@
 
     ("\\.php$"          all-the-icons-fileicon "php"                    :face all-the-icons-lsilver)
     ("\\.pony$"         all-the-icons-fileicon "pony"                   :face all-the-icons-maroon)
+    ("\\.ps1$"          all-the-icons-fileicon "powershell"             :face all-the-icons-blue)
     ("\\.prol?o?g?$"    all-the-icons-alltheicon "prolog"               :height 1.1  :face all-the-icons-lmaroon)
     ("\\.py$"           all-the-icons-alltheicon "python"               :height 1.0  :face all-the-icons-dblue)
 
@@ -592,6 +593,7 @@
     (puppet-mode                        all-the-icons-fileicon "puppet"           :face 'all-the-icons-yellow)
     (jinja2-mode                        all-the-icons-fileicon "jinja"            :face 'all-the-icons-silver)
     (dockerfile-mode                    all-the-icons-fileicon "dockerfile"       :face 'all-the-icons-cyan)
+    (powershell-mode                    all-the-icons-fileicon "powershell"       :face all-the-icons-blue)
     ))
 
 (defvar all-the-icons-url-alist
